@@ -1,0 +1,10 @@
+# Windows (não WSL). Python 3.11 a 3.13.
+numpy>=1.26
+opencv-python>=4.9
+mss>=9.0
+pywin32>=306
+gymnasium>=0.29
+stable-baselines3>=2.3
+# PyTorch com suporte à placa de vídeo é instalado à parte (ver README, "Etapa 5").
+matplotlib>=3.8
+imageio-ffmpeg

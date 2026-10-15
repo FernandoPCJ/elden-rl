@@ -1,0 +1,14 @@
+{
+  "forward": "w",
+  "back": "s",
+  "left": "a",
+  "right": "d",
+  "dodge": "space",
+  "attack": "c",
+  "heavy": "v",
+  "guard": "x",
+  "lock_on": "mouse_middle",
+  "flask": "r",
+  "interact": "e",
+  "confirm": "enter"
+}

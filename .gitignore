@@ -1,0 +1,7 @@
+runs/
+.venv/
+__pycache__/
+*.sl2
+saves/
+ONDE_PARAMOS.md
+hud_config.json
